@@ -67,20 +67,6 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake Animation
-<div align="center">
-
-### 🟣 Dark Mode
-<img src="https://raw.githubusercontent.com/GEEKKARAN6713/GEEKKARAN6713/output/github-contribution-grid-snake-dark.svg" />
-
-### ⚪ Light Mode
-<img src="https://raw.githubusercontent.com/GEEKKARAN6713/GEEKKARAN6713/output/github-contribution-grid-snake.svg" />
-
-</div>
-
-
----
-
 ## 🚀 About Me
 - 🎓 Engineering Student  
 - 💻 Passionate Programmer  
