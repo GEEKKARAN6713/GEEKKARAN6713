@@ -1,20 +1,29 @@
 <!-- Typing Introduction -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Karan+Kishor+Kamble;Welcome+to+my+GitHub+Profile!;Engineering+Student+%7C+Programmer+%7C+Tech+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Karan+Kishor+Kamble;Engineering+Student+%7C+Programmer;Welcome+to+my+GitHub+Profile!" />
 </h1>
 
+<!-- Auto Dark/Light Custom Banner -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GEEKKARAN6713/assets/main/banners/karan_dark_banner.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GEEKKARAN6713/assets/main/banners/karan_light_banner.png">
+    <img width="100%" src="https://raw.githubusercontent.com/GEEKKARAN6713/assets/main/banners/karan_light_banner.png" alt="Karan Kishor Kamble Banner" />
+  </picture>
+</div>
+
 <h3 align="center">
-  An Engineering Student from Government College Of Engineering, Karad, Maharashtra, India 🌍
+  Engineering Student | Programmer  
 </h3>
 
 <!-- Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GEEKKARAN6713&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=GEEKKARAN6713&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 <!-- Coding GIF -->
 <div align="center">
-  <img align="center" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" alt="Coding GIF" />
+  <img height="290" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 </div>
 
 ---
@@ -70,34 +79,23 @@
 <div align="center">
 
 ### 🟣 Dark Mode
-<img src="https://raw.githubusercontent.com/GEEKKARAN6713/GEEKKARAN6713/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://github.com/GEEKKARAN6713/GEEKKARAN6713/blob/output/github-contribution-grid-snake-dark.svg" />
 
 ### ⚪ Light Mode
-<img src="https://raw.githubusercontent.com/GEEKKARAN6713/GEEKKARAN6713/output/github-contribution-grid-snake.svg" />
+<img src="https://github.com/GEEKKARAN6713/GEEKKARAN6713/blob/output/github-contribution-grid-snake.svg" />
 
-</div>
-
----
-
-## 🎭 Dark / Light Mode Banner (Auto Switch)
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/Zc7Zz5L.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/DJe7kX3.png">
-    <img align="center" width="600" src="https://i.imgur.com/DJe7kX3.png" alt="Banner" />
-  </picture>
 </div>
 
 ---
 
 ## 🚀 About Me
 - 🎓 Engineering Student  
-- 💻 Love programming & problem-solving  
-- 🔥 Passionate about Web Development & Backend  
-- 🤝 Always open to collaboration  
-- ⚡ Learning new technologies every week  
+- 💻 Passionate Programmer  
+- 🧠 Curious learner  
+- 🔥 Interested in Web Dev & Backend  
+- 🤝 Open to collaborations  
+- ⚡ Improving daily  
 
 ---
 
-### ⭐ **Thanks for Visiting!**
-
+<h2 align="center">⭐ Thanks for Visiting My Profile! ⭐</h2>
