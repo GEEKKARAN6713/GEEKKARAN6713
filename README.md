@@ -15,7 +15,15 @@
 
 <!-- Coding GIF -->
 <div align="center">
-  <img height="290" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+  <img height="290" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GEEKKARAN6713&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GEEKKARAN6713&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 ---
