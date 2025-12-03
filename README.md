@@ -20,19 +20,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-
-  <!-- GitHub Stats -->
-  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GEEKKARAN6713&show_icons=true&theme=radical&hide_border=true" />
-
-  <!-- Top Languages -->
-  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GEEKKARAN6713&layout=compact&theme=radical&hide_border=true" />
-
-</div>
-
----
-
 ## 🎨 Languages and Tools
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45"/>
