@@ -22,8 +22,13 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GEEKKARAN6713&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GEEKKARAN6713&layout=compact&theme=radical&hide_border=true" />
+
+  <!-- GitHub Stats -->
+  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GEEKKARAN6713&show_icons=true&theme=radical&hide_border=true" />
+
+  <!-- Top Languages -->
+  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GEEKKARAN6713&layout=compact&theme=radical&hide_border=true" />
+
 </div>
 
 ---
