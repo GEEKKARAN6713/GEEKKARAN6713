@@ -3,10 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Karan+Kishor+Kamble;Engineering+Student;Programmer;Welcome+to+my+GitHub+Profile!" />
 </h1>
 
-<h3 align="center">
-  Engineering Student <br>
-  Programmer
-</h3>
+<h3 align="center"><strong>Engineering Student • Programmer</strong></h3>
 
 <!-- Visitor Counter -->
 <p align="center">
