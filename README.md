@@ -1,19 +1,11 @@
 <!-- Typing Introduction -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Karan+Kishor+Kamble;Engineering+Student+%7C+Programmer;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Karan+Kishor+Kamble;Engineering+Student;Programmer;Welcome+to+my+GitHub+Profile!" />
 </h1>
 
-<!-- Auto Dark/Light Custom Banner -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GEEKKARAN6713/assets/main/banners/karan_dark_banner.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GEEKKARAN6713/assets/main/banners/karan_light_banner.png">
-    <img width="100%" src="https://raw.githubusercontent.com/GEEKKARAN6713/assets/main/banners/karan_light_banner.png" alt="Karan Kishor Kamble Banner" />
-  </picture>
-</div>
-
 <h3 align="center">
-  Engineering Student | Programmer  
+  Engineering Student <br>
+  Programmer
 </h3>
 
 <!-- Visitor Counter -->
