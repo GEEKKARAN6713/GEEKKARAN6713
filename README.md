@@ -71,12 +71,13 @@
 <div align="center">
 
 ### 🟣 Dark Mode
-<img src="https://github.com/GEEKKARAN6713/GEEKKARAN6713/blob/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/GEEKKARAN6713/GEEKKARAN6713/output/github-contribution-grid-snake-dark.svg" />
 
 ### ⚪ Light Mode
-<img src="https://github.com/GEEKKARAN6713/GEEKKARAN6713/blob/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/GEEKKARAN6713/GEEKKARAN6713/output/github-contribution-grid-snake.svg" />
 
 </div>
+
 
 ---
 
