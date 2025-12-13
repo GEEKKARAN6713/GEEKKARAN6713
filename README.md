@@ -57,13 +57,6 @@
 
 ---
 
-## 🌟 Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GEEKKARAN6713&theme=radical&row=1&no-frame=true&no-bg=true" />
-</div>
-
----
-
 ## 🚀 About Me
 - 🎓 Engineering Student  
 - 💻 Passionate Programmer  
